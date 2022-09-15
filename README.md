@@ -6,6 +6,8 @@ BierBot Bricks https://bricks.bierbot.com/
 
 Display for visualizatzion of current brew process.
 
+![Image of final device](https://github.com/hometm/BierBotBrick_LCD/blob/main/img/HW3.jpg)
+
 Features:
 - Short overview of current/next step
 - Time information
@@ -38,6 +40,8 @@ Bestell-Nr.: 1503752
 - NodeMCU V2 LUA ESP8266
 Bestell-Nr.: 1613301
 
+- Resistor 270 Ohm
+
 
 
 Spare part for future extensions:
@@ -51,7 +55,7 @@ Bestell-Nr.: 706175
  
 
 ## Hardware Assembly
-...draft will be added
+Information can be found inside 'img' folder
 
 
 
